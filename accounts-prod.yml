@@ -5,7 +5,7 @@ accounts:
   message: "Welcome to Bank accounts Proud APIs "
   contactDetails:
     name: "Pedro - Product Owner"
-    email: "pedro@bank.com"
+    email: "{cipher}1a88d7662d337e2f20e57c9fb5c1f46f369edf95cf53cf71c1209cae735a1fa518ccb1ec26a07d546e33c1855da91980"
   onCallSupport:
     - (777) 555-1234
     - (777) 523-1345
