@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 loan:
-  message: "Welcome to Bank loans Proud APIs "
+  message: "Welcome to Bank loans production APIs "
   contactDetails:
     name: "Parrinha - Product Owner"
     email: "parrinha@bank.com"
