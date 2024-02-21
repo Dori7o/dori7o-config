@@ -2,7 +2,7 @@ build:
   version: "1.0"
 
 accounts:
-  message: "Welcome to Bank accounts webhooks production APIs "
+  message: "Welcome to Bank accounts no more webhooks production APIs "
   contactDetails:
     name: "Pedro Rodrigues - Product Owner"
     email: "{cipher}1a88d7662d337e2f20e57c9fb5c1f46f369edf95cf53cf71c1209cae735a1fa518ccb1ec26a07d546e33c1855da91980"
