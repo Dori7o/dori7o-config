@@ -4,7 +4,7 @@ build:
 card:
   message: "Welcome to Bank card QA APIs "
   contactDetails:
-    name: "Vitorino OwO - Developer"
+    name: "Vitorino - Developer"
     email: "vitorino@bank.com"
   onCallSupport:
     - (666) 555-1234
